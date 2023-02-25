@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/Election_specializations/Task/bin/Debug/net6.0/Task
+/Users/libino/Desktop/Учеба/Election_specializations/Task/bin/Debug/net6.0/Task.deps.json
+/Users/libino/Desktop/Учеба/Election_specializations/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/libino/Desktop/Учеба/Election_specializations/Task/bin/Debug/net6.0/Task.dll
+/Users/libino/Desktop/Учеба/Election_specializations/Task/bin/Debug/net6.0/Task.pdb
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.dll
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.pdb
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/Election_specializations/Task/obj/Debug/net6.0/ref/Task.dll
